@@ -1,4 +1,4 @@
-# shp2
+# shp
 
 ## Project setup
 ```
